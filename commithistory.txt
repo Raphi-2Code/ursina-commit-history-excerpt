@@ -1,0 +1,19 @@
+Aug 1 2025	removed patreon from donate page	7313e35	pokepetter
+Aug 1 2025	changed patreon icon out with github sponsors icon	db57ffe	pokepetter
+Aug 1 2025	made code for printing ursina version in app.run() not error if ursin…	dc6ac8e	pokepetter
+Aug 2 2025	fixed issue with font loading on windows since you couldn't load font…	c36c0d8	pokepetter
+Aug 3 2025	integrated NineSlice more tightly so it's easier to use, for example…	460f2ce	pokepetter
+Aug 3 2025	fixed issue with NineSlice when using multiplier, because it didn't c…	a0e0b16	pokepetter
+Aug 8 2025	fixed text scale in FileBrowser by setting text_size instead of scali…	9407b13	petteramland
+Aug 17 2025	Entity: add world_quaternion property and make look_in_direction use it	3b58559	jamesw732
+Aug 17 2025	Merge pull request #799 from jamesw732/world_quat	6a343af	pokepetter
+Aug 22 2025	fixed lerp_exponential_decay, made EditorCamera use lerp_exponential_…	719f6ee	pokepetter
+Aug 27 2025	ensured window size values are ints, to avoid warning from panda3d	c708ad1	pokepetter
+Sep 21 2025	made it possible to load audio without opening a windows first by rem…	f261eae	pokepetter
+Sep 24 2025	added support for loading Array2d from string with no seperator	3fbc322	pokepetter
+Sep 24 2025	added type hints mostly	d138d81	pokepetter
+Sep 24 2025	made camera work without Ursina()	7bdb4e7	pokepetter
+Sep 27 2025	fixed issue with double input in input fields	999d60c	pokepetter
+Sep 28 2025	added fog support back in by adding the unlit_with_fog_shader	25e8b03	pokepetter
+Sep 28 2025	v8.2.0	bc8de88	pokepetter
+Oct 1 2025	regenerated documentation	de05033	pokepetter
